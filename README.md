@@ -27,4 +27,4 @@ I am a passionate B.Tech student with strong foundations in programming, web dev
 ## 📬 Connect with Me
 
 * **Email:** nagsvenkatmeda9304@gmail.com
-* **LinkedIn:** [Your LinkedIn Link Here]
+* **LinkedIn:** https://www.linkedin.com/in/meda-naga-venkat-783813300
